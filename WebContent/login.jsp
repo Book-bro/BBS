@@ -50,6 +50,7 @@
 			</ul>
 		</div>
 	</nav>
+	<!-- 로그인 영역 -->
 	<div class="container">
 		<div class="col-lg-4"></div>
 		<!-- 로그인 양식 -->
